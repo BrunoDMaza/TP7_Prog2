@@ -1,12 +1,9 @@
 
-package tp7_herencia;
+package Punto3_Empleados;
 
 
-public class TP7_Herencia {
-
-   
+public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
 }
